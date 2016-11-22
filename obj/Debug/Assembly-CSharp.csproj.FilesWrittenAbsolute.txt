@@ -1,0 +1,17 @@
+/Users/ardamavi/Documents/Code/Unity/Tetris/Temp/bin/Debug/UnityEngine.dll
+/Users/ardamavi/Documents/Code/Unity/Tetris/Temp/bin/Debug/UnityEditor.dll
+/Users/ardamavi/Documents/Code/Unity/Tetris/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/ardamavi/Documents/Code/Unity/Tetris/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/ardamavi/Documents/Code/Unity/Tetris/Temp/bin/Debug/Mono.Cecil.dll
+/Users/ardamavi/Documents/Code/Unity/Tetris/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/ardamavi/Documents/Code/Unity/Tetris/Temp/bin/Debug/Unity.DataContract.dll
+/Users/ardamavi/Documents/Code/Unity/Tetris/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/ardamavi/Documents/Code/Unity/Tetris/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/ardamavi/Documents/Code/Unity/Tetris/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/ardamavi/Documents/Code/Unity/Tetris/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/ardamavi/Documents/Code/Unity/Tetris/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/ardamavi/Documents/Code/Unity/Tetris/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/ardamavi/Documents/Code/Unity/Tetris/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/ardamavi/Documents/Code/Unity/Tetris/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/ardamavi/Documents/Code/Unity/Tetris/obj/Debug/Assembly-CSharp.dll
+/Users/ardamavi/Documents/Code/Unity/Tetris/obj/Debug/Assembly-CSharp.dll.mdb

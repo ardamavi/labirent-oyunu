@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Bo\u0308lu\u0308mler/Oyun.unity"
+  isLoaded: 1
+  isActive: 1
